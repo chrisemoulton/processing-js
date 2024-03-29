@@ -11,11 +11,11 @@
   "devDependencies": {
     "argv": "~0.0.2",
     "browserify": "^11.0.1",
-    "express": "~3.3.3",
+    "express": "~4.19.2",
     "node-minify": "~0.7.3",
-    "nunjucks": "~0.1.9",
-    "open": "0.0.3",
-    "grunt": "~0.4.1",
+    "nunjucks": "~3.2.4",
+    "open": "6.0.0",
+    "grunt": "~1.6.1",
     "grunt-cli": "~0.1.8",
     "grunt-contrib-jshint": "~0.4.3"
   },
